@@ -2,7 +2,7 @@
 
 My name is Luis Rodolfo Navarro 🙋🏻‍♂️ I'm a Full Stack Developer with JavaScript,React.js and Node.js
 
-:rocket: front-end and the back-end
+:rocket: front-end and back-end
 
 📌 I have experience carrying out projects with:
 
