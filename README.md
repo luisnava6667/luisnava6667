@@ -12,4 +12,4 @@ My name is Luis Rodolfo Navarro 🙋🏻‍♂️ I'm a Full Stack Developer wit
 🌱 I’m currently learning: TypeScript !
 
 **###⭐ Languages and Tools:
-![img] https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+![img](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
