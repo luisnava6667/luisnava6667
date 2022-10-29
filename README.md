@@ -1,15 +1,22 @@
-### Hi there 👋
+### <h1 align="center">Hola 👋, Soy Luis Navarro</h1>
 
-My name is Luis Rodolfo Navarro 🙋🏻‍♂️ I'm a Full Stack Developer with JavaScript,React.js and Node.js
+- 🌱 Me encuentro aprendiendo --> **TypeScript**
+
+- 💬 Me puedes preguntar sobre --> **JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize**
+
+- 📫 Para contactarme --> **navaluisrodolfo@gmail.com**
 
 :rocket: front-end and back-end
+<h3 align="left">Contáctese conmigo:</h3>
+<a href="https://linkedin.com/in/luisnavarro-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico-burgueño-fullstack" height="30" width="40" /></a>
+</p>
 
-📌 I have experience carrying out projects with:
+
+<h3 align="left">Lenguajes y Herramientas:</h3>
 
 🔸 React 🔸 Redux 🔸 JavaScript 🔸 Express 🔸 sequelize 🔸 PostgreSQL 🔸 Mongoose 🔸 MongoDB
 
-🔭 I’m currently working on my portfolio
-🌱 I’m currently learning: TypeScript !
+🔭 Me encuentro Trabajando en mi portafolio
 
 ## :star: Languages and Tools:
 <div align="center"> 
@@ -21,6 +28,12 @@ My name is Luis Rodolfo Navarro 🙋🏻‍♂️ I'm a Full Stack Developer wit
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="html5" width="95" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="html5" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="git" width="40" height="40"/>
   
 </div>
 
