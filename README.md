@@ -8,7 +8,7 @@
 
 :rocket: front-end and back-end
 <h3 align="left">Contáctese conmigo:</h3>
-<a href="https://linkedin.com/in/luisnavarro-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luis Navarro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luisnavarro-fullstack" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Luis Navarro" height="30" width="40" /></a>
 </p>
 
 🔭 Me encuentro Trabajando en mi portafolio
