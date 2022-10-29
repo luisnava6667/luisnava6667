@@ -8,17 +8,12 @@
 
 :rocket: front-end and back-end
 <h3 align="left">Contáctese conmigo:</h3>
-<a href="https://linkedin.com/in/luisnavarro-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico-burgueño-fullstack" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luisnavarro-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luis Navarro" height="30" width="40" /></a>
 </p>
-
-
-<h3 align="left">Lenguajes y Herramientas:</h3>
-
-🔸 React 🔸 Redux 🔸 JavaScript 🔸 Express 🔸 sequelize 🔸 PostgreSQL 🔸 Mongoose 🔸 MongoDB
 
 🔭 Me encuentro Trabajando en mi portafolio
 
-## :star: Languages and Tools:
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <div align="center"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/512px-React.svg.png" alt="html5" width="45" height="40"/> 
