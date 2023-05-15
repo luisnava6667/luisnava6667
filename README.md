@@ -2,7 +2,7 @@
 
 - 🌱 Me encuentro aprendiendo --> **TypeScript**
 
-- 💬 Me puedes preguntar sobre --> **JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize**
+- 💬 Me puedes preguntar sobre --> **JavaScript, React & Redux, NodeJS, Express, HTML, CSS, PostgreSQL, Sequelize**
 
 - 📫 Para contactarme --> **navaluisrodolfo@gmail.com**
 
@@ -19,6 +19,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/512px-React.svg.png" alt="html5" width="45" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" />    
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="html5" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="html5" width="95" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="html5" width="40" height="40"/> 
