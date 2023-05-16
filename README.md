@@ -1,8 +1,10 @@
 ### <h1 align="center">Hola 👋, Soy Luis Navarro</h1>
 
-- 🌱 Me encuentro aprendiendo --> **TypeScript**
-
 - 💬 Me puedes preguntar sobre --> **JavaScript, React & Redux, NodeJS, Express, HTML, CSS, PostgreSQL, Sequelize**
+
+- 🔭 actualmente estoy trabajando @ [Vercel](https://vercel.com)
+ 
+- 🌱 Actualmente estoy trabajando con [React](https://reactjs.org).
 
 - 📫 Para contactarme --> **navaluisrodolfo@gmail.com**
 
@@ -11,7 +13,7 @@
 <a href="https://linkedin.com/in/luisnavarro-fullstack" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Luis Navarro" height="30" width="40" /></a>
 </p>
 
-🔭 Me encuentro Trabajando en mi portafolio
+
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <div align="center"> 
